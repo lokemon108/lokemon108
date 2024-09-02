@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am an undergraduate student studying Bachelors in Computer Science/Information Technology. I like coding.
 
 <!--
 **lokemon108/lokemon108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
